@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reinerng (reiner). 
 - 👀 I’m interested in attitudes and persuasion, networks, and sentiment analyses.
-- 🌱 I’m currently learning python and R, and how to better manage large data for such analyses.
+- 🌱 I’m currently learning python and R, and how to better manage large data for such analyses, to get more insights into the data for better story-telling.
 - 💞️ I’m looking to collaborate on any research related to attitudes and its properties, networks, and sentiment-related works.
 - 📫 How to reach me: I am on linkedin or find me at www.reinerng.github.io
 
